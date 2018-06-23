@@ -1,0 +1,23 @@
+"*":
+  core:
+    disabledPackages: [
+      "language-gfm"
+      "markdown-preview"
+    ]
+    telemetryConsent: "no"
+    themes: [
+      "atom-material-ui"
+      "solarized-dark-syntax"
+    ]
+  editor:
+    fontSize: 19
+  "exception-reporting":
+    userId: "1946e0e7-b94c-48e6-bc34-2c629df72f73"
+  "linter-ui-default":
+    panelHeight: 141
+  "markdown-preview-enhanced":
+    mermaidTheme: "mermaid.dark.css"
+    previewTheme: "solarized-dark.css"
+    revealjsTheme: "solarized.css"
+  welcome:
+    showOnStartup: false
